@@ -1,0 +1,1 @@
+cd documents/imp/polihub/news-functions/functions
